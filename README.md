@@ -128,37 +128,6 @@
 
 ---
 
-# 📈 Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agrimagoel30&theme=tokyonight"/>
-
-</div>
-
----
-
-# 💡 Developer Quote
-
-<div align="center">
-
-> **"Code. Learn. Build. Repeat."** 🚀
-
-</div>
-
----
-# 🐍 Contribution Snake
-
-> **Follow the steps below to enable the snake animation on your profile.**
-
-<div align="center">
-
-![Snake animation](https://github.com/agrimagoel30/agrimagoel30/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 # 🌟 Featured Repositories
 
 <div align="center">
@@ -174,40 +143,6 @@
 </div>
 
 > **Note:** If your repository names are different (e.g. `Campus-Cart` or `Spendzy-App`), update the `repo=` value accordingly.
-
----
-
-# 📈 GitHub Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/4F9DFF/agrimagoel30" />
-
-</div>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="mailto:agrimagoel30@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/agrima-goel-8bb180281/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/agrimagoel3011/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/profile/agrimagoel30">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
