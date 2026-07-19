@@ -128,23 +128,44 @@
 
 ---
 
-# 🌟 Featured Repositories
+# 🌟 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/agrimagoel30/CampusCart">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=agrimagoel30&repo=CampusCart&theme=tokyonight&hide_border=true"/>
-</a>
+### 📦 CampusCart
 
-<a href="https://github.com/agrimagoel30/Spendzy">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=agrimagoel30&repo=Spendzyy&theme=tokyonight&hide_border=true"/>
-</a>
+Campus Marketplace App
 
-</div>
+- 🛒 Buy & Sell Products
+- ❤️ Wishlist
+- 🔍 Smart Search
+- ☁ Firebase
+- 📱 Jetpack Compose
 
-> **Note:** If your repository names are different (e.g. `Campus-Cart` or `Spendzy-App`), update the `repo=` value accordingly.
+🔗 **Repository:**  
+https://github.com/agrimagoel30/CampusCart
 
----
+</td>
+
+<td width="50%">
+
+### 💰 Spendzy
+
+Hostel Expense Tracker
+
+- 💵 Budget Tracking
+- 📊 Analytics
+- ☁ Firebase
+- 📱 Jetpack Compose
+
+🔗 **Repository:**  
+https://github.com/agrimagoel30/Spendzy
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
