@@ -44,12 +44,6 @@
 
 🏆 Competitive Programmer with **600+ problems solved** across coding platforms
 
-🤖 Currently exploring **AI/ML** and building practical projects
-
-🚀 Love creating applications that solve real-world problems
-
-💡 Always learning new technologies and improving problem-solving skills
-
 ---
 
 ## 🚀 Currently Working On
@@ -59,17 +53,6 @@
 - 📱 Android Development with Jetpack Compose
 - 💻 Data Structures & Algorithms
 - 🧠 AI/ML Fundamentals
-
----
-
-## 🌟 A Few Things About Me
-
-- 🌱 Currently learning **Machine Learning**
-- 📱 Android Development Enthusiast
-- 💻 Love solving DSA problems
-- 🚀 Interested in Open Source
-- 🎯 Goal: Become a Software Engineer
-- ☕ Coffee + Coding = Productivity ❤️
 
 ---
 
@@ -446,19 +429,6 @@
 
 ---
 
-# 💬 Fun Fact
-
-<div align="center">
-
-💙 I enjoy building Android applications that solve real-world problems.
-
-💻 When I'm not coding, you'll usually find me solving DSA problems, learning something new, or contributing to exciting projects.
-
-🌱 *"Every day is an opportunity to become a better developer."*
-
-</div>
-
----
 
 <div align="center">
 
