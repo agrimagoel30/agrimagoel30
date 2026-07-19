@@ -137,7 +137,7 @@
 </a>
 
 <a href="https://github.com/agrimagoel30/Spendzy">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=agrimagoel30&repo=Spendzy&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=agrimagoel30&repo=Spendzyy&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
@@ -145,7 +145,6 @@
 > **Note:** If your repository names are different (e.g. `Campus-Cart` or `Spendzy-App`), update the `repo=` value accordingly.
 
 ---
-
 
 <div align="center">
 
